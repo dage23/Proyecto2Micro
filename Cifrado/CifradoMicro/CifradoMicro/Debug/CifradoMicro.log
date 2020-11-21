@@ -1,0 +1,3 @@
+﻿  Assembling Cifrado.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  CifradoMicro.vcxproj -> C:\Users\Allan Dávila\source\repos\Proyecto2Micro\Cifrado\CifradoMicro\Debug\CifradoMicro.exe
